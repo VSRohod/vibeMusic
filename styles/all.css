@@ -1,0 +1,22 @@
+:root{
+    --white: #dadada ;
+    --lightGray: #cfcfcf1e ;
+}
+
+.card{
+    background-color: var(--lightGray)!important;
+}
+
+.modal-header,.modal-footer{
+    border: none!important;
+}
+
+
+.btnMenu{
+    color: var(--white);
+}
+
+.btnMenu:hover{
+    color: var(--white);
+    background-color: var(--lightGray) ;
+}
