@@ -1,0 +1,12 @@
+#billie .modal-content{
+    border: none;
+    background: rgb(142,107,77);
+    background: linear-gradient(180deg, rgba(142,107,77,1) 0%, rgba(179,135,98,1) 35%, rgba(245,194,150,1) 100%);
+}
+
+#crx .modal-content{
+    border: none;
+    color: white;
+    background: rgb(234,10,98);
+    background: linear-gradient(180deg, rgba(234,10,98,1) 0%, rgba(191,60,111,1) 35%, rgba(105,59,77,1) 100%);
+}
